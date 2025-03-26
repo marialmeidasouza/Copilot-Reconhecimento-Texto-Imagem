@@ -1,0 +1,7 @@
+Os resultados do reconhecimento de texto de cada uma das imagens da pasta inputs estão disponíveis nesse documento.
+
+Reconhecimento de Texto da Imagem 1
+
+Reconhecimento de Texto da Imagem 2
+
+Reconhecimento de Texto da Imagem 3
